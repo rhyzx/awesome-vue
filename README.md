@@ -244,7 +244,7 @@
   - [Heineken Star Experience](http://www.starexperience.fr/) - *FWA SOTD.*
   - [Louis Ansa Website (portfolio)](http://louisansa.com) - *Awwwards SOTD, FWA nominee.*
   - [Digital For All](http://www.digitalforallnow.com/en/experience)
-  - [Djeco.com](http://www.djeco.com/en)
+  - [Djeco.com ![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Star&maxAge=2592000)](http://www.djeco.com/en)
 
 - #### Enterprise Usage
 
